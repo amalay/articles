@@ -1,5 +1,7 @@
 # Frequent Terms used in Cloud world
 
+In cloud world, number of terms or terminology used. We listen and use those terms on our daily life and also implement it in the project. But sometimes if someone suddenly ask about those words, we get confused and feel guilty because of unable to answer properly. That is the reason I am summerising some of the important terms together on this page so that we can memorize it quickly. 
+
 Before going to the cloud world, lets first understand the <b>Environment</b>.
 
 ## Environment:
